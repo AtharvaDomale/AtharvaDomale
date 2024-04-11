@@ -1,13 +1,15 @@
 # Hi there, I'm Atharva! 👋
 
-![Header](AtharvaDomale/asd.png)
+![Header](asd.png)
 
 ## About Me 🚀
 
 AI-focused 3rd-year student with a strong foundation in ML algorithms, deep learning, ANN, Java, DSA, Linux, and AI. Proficient in Python, R, and AI frameworks like TensorFlow, Keras, and PyTorch. Completed several AI projects. Seeking internships and entry-level opportunities to apply my AI skills and grow as a professional. Eager to collaborate, learn, and make a positive impact in the field. Connect with me to discuss potential opportunities.
 - 🌱 Currently learning: **AI,Deep Learning,Machine Learning**
 - 🔭 Working on: **Sign Language Recognition project**
-- 📫 How to reach me: **atharvadomale@gmail.com**
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)]([https://www.linkedin.com/in/your_linkedin_profile](https://www.linkedin.com/in/atharvadomale/))
+                       [![Email](https://img.shields.io/badge/Email-red)](atharvadomale@gmail.com)
+
 - ⚡ Fun fact: **My days are spent teaching machines to outsmart people (shh, don't tell them).**
 
 <h3 align="left">Languages and Tools:</h3>
@@ -33,6 +35,5 @@ AI-focused 3rd-year student with a strong foundation in ML algorithms, deep lear
 ## Get in Touch 📬
 
 - **[LinkedIn]**(https://www.linkedin.com/in/atharvadomale/)
-- **[Twitter]**(your_twitter_profile_link)
 
 
