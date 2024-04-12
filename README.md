@@ -7,8 +7,12 @@
 AI-focused 3rd-year student with a strong foundation in ML algorithms, deep learning, ANN, Java, DSA, Linux, and AI. Proficient in Python, R, and AI frameworks like TensorFlow, Keras, and PyTorch. Completed several AI projects. Seeking internships and entry-level opportunities to apply my AI skills and grow as a professional. Eager to collaborate, learn, and make a positive impact in the field. Connect with me to discuss potential opportunities.
 - 🌱 Currently learning: **AI,Deep Learning,Machine Learning**
 - 🔭 Working on: **Sign Language Recognition project**
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)]([https://www.linkedin.com/in/your_linkedin_profile](https://www.linkedin.com/in/atharvadomale/))
-                       [![Email](https://img.shields.io/badge/Email-red)](atharvadomale@gmail.com)
+- 📫 How to reach me:  <a href="https://www.linkedin.com/in/atharvadomale/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+ <a href="https://www.instagram.com/atharva_domale_108k/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ </a> 
 
 - ⚡ Fun fact: **My days are spent teaching machines to outsmart people (shh, don't tell them).**
 
