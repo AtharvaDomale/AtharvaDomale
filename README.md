@@ -2,7 +2,6 @@
 
 ![Header](asd.png)
 
-<h1 align="center">Hi 👋, I'm Atharva</h1>
 <h3 align="center">A passionate Third Year AI Student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atharvadomale&label=Profile%20views&color=0e75b6&style=flat" alt="atharvadomale" /> </p>
