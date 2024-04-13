@@ -31,6 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvadomale&show_icons=true&locale=en&layout=compact" alt="atharvadomale" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvadomale&show_icons=true&locale=en" alt="atharvadomale" /></p>
-
-![Spotify Now Playing](https://widget.nowplaying.site/IWYxKu2YTYG0pA2R)
-
