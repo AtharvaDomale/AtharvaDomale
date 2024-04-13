@@ -1,6 +1,9 @@
 # Hi there, I'm Atharva! 👋
 
-![Header](asd.png)
+![Header](images/asd.png)
+
+<img align="right" width="150" height="150" src="images/emo.gif" alt="gif"></a>
+
 
 <h3 align="center">A passionate Third Year AI Student from India</h3>
 
@@ -11,6 +14,8 @@
 - 📫 How to reach me **atharvadomale@gmail.com**
 
 - ⚡ Fun fact **My days are spent teaching machines to outsmart people (shh, don't tell them)**
+
+<img align="middle" width="175" height="150" src="images/future-internet.gif" alt="gif"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
