@@ -31,3 +31,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvadomale&show_icons=true&locale=en&layout=compact" alt="atharvadomale" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvadomale&show_icons=true&locale=en" alt="atharvadomale" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AtharvaDomale&theme=material&hide_border=true&border_radius=3.3" alt="GitHub Streak" /></a>
