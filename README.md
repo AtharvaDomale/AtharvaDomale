@@ -125,10 +125,4 @@
 
 
 
-### Spotify Playing
-
-[<img src="https://novatorem-git-main-atharva-domales-projects.vercel.app>/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/<YOUR 5xzr58mdbiytxcilwiru2n665>)
-
-
-
 
