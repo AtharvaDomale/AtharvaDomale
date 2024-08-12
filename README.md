@@ -125,8 +125,3 @@
 
 
 
-
-
-
-[![Spotify](https://[novatorem-omt05nwyi-atharva-domales-projects.vercel.app](https://novatorem-omt05nwyi-atharva-domales-projects.vercel.app)/api/spotify)](https://open.spotify.com/user/USER_NAME)
-
