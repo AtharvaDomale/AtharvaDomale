@@ -122,3 +122,13 @@
 </div>
  </a> 
 </p>
+
+
+
+
+
+
+
+
+
+[![Spotify](https://novatorem-two-hazel.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
