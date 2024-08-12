@@ -131,4 +131,4 @@
 
 
 
-[![Spotify](https://novatorem-two-hazel.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://novatorem-git-main-atharva-domales-projects.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
