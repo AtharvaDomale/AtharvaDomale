@@ -37,7 +37,7 @@
   <a href="https://kaggle.com/atharvadomale" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle&logoColor=white&color=20BEFF" alt="Kaggle" />
   </a>
-  <a href="https://instagram.com/atharva_domale_108k" target="_blank">
+  <a href="https://www.instagram.com/atharva_domale_xo/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-Profile-critical?style=flat&logo=instagram&logoColor=white&color=BC2A8D" alt="Instagram" />
   </a>
 </p>
