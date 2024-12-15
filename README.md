@@ -100,6 +100,15 @@
   <img src="https://img.shields.io/badge/MLflow-MLOps-green?style=flat&logo=mlflow&logoColor=white&color=02569B" alt="MLflow" />
 </a>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=atharvadomale&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=atharvadomale&limit=5&theme=merko&combine_all_yearly_contributions=true)
+
 ## 📊 GitHub Stats
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=atharvadomale&label=Profile%20views&color=0e75b6&style=flat" alt="atharvadomale" />
@@ -122,7 +131,3 @@
 </div>
  </a> 
 </p>
-
-
-
-
