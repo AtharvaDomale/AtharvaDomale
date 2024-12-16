@@ -1,11 +1,20 @@
-# <span style="font-family:Papyrus; font-size:2em;">Hi there, I'm Atharva!</span> 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=2500&color=00FF00&background=F513FF00&width=435&lines=Hi+There!+✌️)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=9000&pause=2000&color=FFD700&background=F513FF00&width=435&lines=I'm+Atharva+Domale+✨)](https://git.io/typing-svg)
+
+
+
+
+
+<h3 align="center">A passionate AI Engineer from India</h3>
+
+<br/>
 
 ![Header](images/asd.png)
 
 <img align="right" width="150" height="150" src="images/emo.gif" alt="gif">
 </p>
 
-<h3 align="center">A Passionate Third Year AI Student from India</h3>
 
 ## 🔭 Currently Working On
 
