@@ -123,20 +123,29 @@
   <img src="https://komarev.com/ghpvc/?username=atharvadomale&label=Profile%20views&color=0e75b6&style=flat" alt="atharvadomale" />
 </p>
 
-<div align="center">
+<div >
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvadomale&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
-<div align="center">
+<div >
   <img src="https://github-readme-stats.vercel.app/api?username=atharvadomale&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </div>
 
-<div align="center">
+<div >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvadomale&theme=dark" alt="GitHub Streak" />
 </div>
 
-<div align="center">
+<div >
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atharvadomale&theme=github_dark" alt="Profile Summary Cards" />
 </div>
+
+<div >
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+</div>
+
  </a> 
 </p>
