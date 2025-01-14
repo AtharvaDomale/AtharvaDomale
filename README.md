@@ -4,8 +4,6 @@
 
 
 
-
-
 <h3 align="center">A passionate AI Engineer from India</h3>
 
 <br/>
