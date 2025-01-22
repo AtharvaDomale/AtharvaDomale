@@ -12,7 +12,6 @@
 <img align="right" width="150" height="150" src="images/emo.gif" alt="gif">
 </p>
 
-
 ## 🔭 Currently Working On
 
 - My current focus lies in developing a Sign Language Recognition system aimed at enhancing accessibility for individuals with hearing impairments.
