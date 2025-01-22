@@ -126,7 +126,6 @@
 <div >
   <img src="https://github-readme-stats.vercel.app/api?username=atharvadomale&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </div>
-
 <div >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvadomale&theme=dark" alt="GitHub Streak" />
 </div>
