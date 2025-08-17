@@ -129,7 +129,7 @@
 <div >
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atharvadomale&theme=github_dark" alt="Profile Summary Cards" />
 </div>
-
+<!--
 <div >
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -137,8 +137,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 </div>
-
-
+-->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
