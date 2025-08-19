@@ -31,6 +31,12 @@ jobs:
           sed -i "s/#000000/${RANDOM_COLOR}/g" output/light.svg
           sed -i "s/#000000/${RANDOM_COLOR}/g" output/dark.svg
 
+      - name: Add glowing effect to SVGs
+        run: |
+          # Add glow effect to the SVG light/dark background
+          sed -i 's/<svg/<svg style="filter: drop-shadow(0 0 10px #FF00FF);"/' output/light.svg
+          sed -i 's/<svg/<svg style="filter: drop-shadow(0 0 10px #00FFFF);"/' output/dark.svg
+
       - name: Add timestamp to SVGs
         run: |
           TIMESTAMP=$(date "+%Y-%m-%d %H:%M:%S")
@@ -51,9 +57,10 @@ jobs:
           # Add the new SVGs
           git add images/breakout-light.svg images/breakout-dark.svg
 
-          # Commit the changes
-          MESSAGES=("🚀 New Breakout SVGs!" "🎨 SVGs are fresh!" "🖼️ Time to update those breakouts!")
+          # Define some quirky commit messages
+          MESSAGES=("🎉 Woohoo! SVGs have been updated! 🎉" "✨ A magical SVG update happened! ✨" "🌟 New Breakout SVGs, it's party time! 🌟")
           MESSAGE=${MESSAGES[$RANDOM % ${#MESSAGES[@]}]}
+          echo "Using message: $MESSAGE"
           git commit -m "$MESSAGE" || echo "No changes to commit"
 
           # Push the changes
