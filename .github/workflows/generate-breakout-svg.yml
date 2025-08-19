@@ -43,16 +43,18 @@ jobs:
           mv output/light.svg images/breakout-light.svg
           mv output/dark.svg images/breakout-dark.svg
 
-      - name: Randomize Commit Message
+      - name: Commit and push SVGs
         run: |
+          # Pull the latest changes from the remote repository
+          git pull origin main
+
+          # Add the new SVGs
+          git add images/breakout-light.svg images/breakout-dark.svg
+
+          # Commit the changes
           MESSAGES=("🚀 New Breakout SVGs!" "🎨 SVGs are fresh!" "🖼️ Time to update those breakouts!")
           MESSAGE=${MESSAGES[$RANDOM % ${#MESSAGES[@]}]}
-          echo "Using message: $MESSAGE"
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add images/breakout-light.svg images/breakout-dark.svg
           git commit -m "$MESSAGE" || echo "No changes to commit"
 
-      - name: Push changes
-        run: |
-          git push
+          # Push the changes
+          git push origin main
