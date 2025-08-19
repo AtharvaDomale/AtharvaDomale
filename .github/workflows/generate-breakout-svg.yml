@@ -56,7 +56,3 @@ jobs:
       - name: Push changes
         run: |
           git push
-
-      - name: Notify Discord
-        run: |
-          curl -X POST -H "Content-Type: application/json" -d '{"content": "The breakout SVGs have been updated! 🎉"}' ${{ secrets.DISCORD_WEBHOOK_URL }}
