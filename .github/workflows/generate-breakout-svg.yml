@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 */24 * * *"  # runs every 24 hours
   workflow_dispatch:
+  push:
+    branches:
+      - main  # trigger on push to main
 
 jobs:
   generate-svg:
@@ -16,10 +19,23 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: generate SVG
+      - name: Generate SVG
         uses: cyprieng/github-breakout@v1.0.0
         with:
           github_username: ${{ github.repository_owner }}
+
+      - name: Add random colors to SVGs
+        run: |
+          # Example: A simple script to replace colors in the SVGs with random colors
+          RANDOM_COLOR=$(printf "#%02x%02x%02x" $((RANDOM % 256)) $((RANDOM % 256)) $((RANDOM % 256)))
+          sed -i "s/#000000/${RANDOM_COLOR}/g" output/light.svg
+          sed -i "s/#000000/${RANDOM_COLOR}/g" output/dark.svg
+
+      - name: Add timestamp to SVGs
+        run: |
+          TIMESTAMP=$(date "+%Y-%m-%d %H:%M:%S")
+          sed -i "s|<svg|<svg><text x='10' y='20' font-size='20' fill='black'>${TIMESTAMP}</text>|" output/light.svg
+          sed -i "s|<svg|<svg><text x='10' y='20' font-size='20' fill='black'>${TIMESTAMP}</text>|" output/dark.svg
 
       - name: Move generated SVGs
         run: |
@@ -27,13 +43,20 @@ jobs:
           mv output/light.svg images/breakout-light.svg
           mv output/dark.svg images/breakout-dark.svg
 
-      - name: Configure git
+      - name: Randomize Commit Message
         run: |
+          MESSAGES=("🚀 New Breakout SVGs!" "🎨 SVGs are fresh!" "🖼️ Time to update those breakouts!")
+          MESSAGE=${MESSAGES[$RANDOM % ${#MESSAGES[@]}]}
+          echo "Using message: $MESSAGE"
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-
-      - name: Commit and push SVGs
-        run: |
           git add images/breakout-light.svg images/breakout-dark.svg
-          git commit -m "chore: update breakout SVGs" || echo "No changes to commit"
+          git commit -m "$MESSAGE" || echo "No changes to commit"
+
+      - name: Push changes
+        run: |
           git push
+
+      - name: Notify Discord
+        run: |
+          curl -X POST -H "Content-Type: application/json" -d '{"content": "The breakout SVGs have been updated! 🎉"}' ${{ secrets.DISCORD_WEBHOOK_URL }}
