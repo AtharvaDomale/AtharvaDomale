@@ -1,67 +1,45 @@
-name: generate breakout svg
+name: Generate Breakout SVG
 
 on:
   schedule:
-    - cron: "0 */24 * * *"  # runs every 24 hours
+    # Runs every 24 hours
+    - cron: "0 */24 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main  # trigger on push to main
 
 jobs:
   generate-svg:
     permissions:
-      contents: write
+      contents: write  # Grants write access to the repository's contents
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-
+    timeout-minutes: 5  # Sets a timeout for the job
+    
     steps:
+      # Step 1: Checkout the repository
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # Step 2: Generate SVG using the GitHub Breakout action
       - name: Generate SVG
         uses: cyprieng/github-breakout@v1.0.0
         with:
           github_username: ${{ github.repository_owner }}
 
-      - name: Add random colors to SVGs
-        run: |
-          # Example: A simple script to replace colors in the SVGs with random colors
-          RANDOM_COLOR=$(printf "#%02x%02x%02x" $((RANDOM % 256)) $((RANDOM % 256)) $((RANDOM % 256)))
-          sed -i "s/#000000/${RANDOM_COLOR}/g" output/light.svg
-          sed -i "s/#000000/${RANDOM_COLOR}/g" output/dark.svg
-
-      - name: Add glowing effect to SVGs
-        run: |
-          # Add glow effect to the SVG light/dark background
-          sed -i 's/<svg/<svg style="filter: drop-shadow(0 0 10px #FF00FF);"/' output/light.svg
-          sed -i 's/<svg/<svg style="filter: drop-shadow(0 0 10px #00FFFF);"/' output/dark.svg
-
-      - name: Add timestamp to SVGs
-        run: |
-          TIMESTAMP=$(date "+%Y-%m-%d %H:%M:%S")
-          sed -i "s|<svg|<svg><text x='10' y='20' font-size='20' fill='black'>${TIMESTAMP}</text>|" output/light.svg
-          sed -i "s|<svg|<svg><text x='10' y='20' font-size='20' fill='black'>${TIMESTAMP}</text>|" output/dark.svg
-
+      # Step 3: Move the generated SVG files to the appropriate folder
       - name: Move generated SVGs
         run: |
           mkdir -p images
           mv output/light.svg images/breakout-light.svg
           mv output/dark.svg images/breakout-dark.svg
 
+      # Step 4: Configure Git user for commits
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      # Step 5: Commit and push the SVGs
       - name: Commit and push SVGs
         run: |
-          # Pull the latest changes from the remote repository
-          git pull origin main
-
-          # Add the new SVGs
           git add images/breakout-light.svg images/breakout-dark.svg
-
-          # Define some quirky commit messages
-          MESSAGES=("🎉 Woohoo! SVGs have been updated! 🎉" "✨ A magical SVG update happened! ✨" "🌟 New Breakout SVGs, it's party time! 🌟")
-          MESSAGE=${MESSAGES[$RANDOM % ${#MESSAGES[@]}]}
-          echo "Using message: $MESSAGE"
-          git commit -m "$MESSAGE" || echo "No changes to commit"
-
-          # Push the changes
-          git push origin main
+          git commit -m "chore: update breakout SVGs" || echo "No changes to commit"
+          git push
