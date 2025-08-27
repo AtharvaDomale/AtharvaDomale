@@ -126,6 +126,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvadomale&theme=dark" alt="GitHub Streak" />
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AtharvaDomale1&theme=dark)](https://git.io/streak-stats)
+
+
 <div >
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atharvadomale&theme=github_dark" alt="Profile Summary Cards" />
 </div>
