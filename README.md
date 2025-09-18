@@ -239,14 +239,14 @@ timeline
 </td>
 <td width="50%">
 
-### ⚡ **n8n Automation Templates**
-**Comprehensive Workflow Automation Collection**
+### 🤖 **AI Email GTM Outreach Agent**
+**Intelligent Email Generation & Outreach Automation**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AtharvaDomale&repo=awesome-n8n-templates&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/AtharvaDomale/awesome-n8n-templates)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AtharvaDomale&repo=AI-Email-GTM-Outreach-Agent&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/AtharvaDomale/AI-Email-GTM-Outreach-Agent)
 
-**Tech Stack:** `n8n` `APIs` `Automation` `Webhooks`
+**Tech Stack:** `Python` `GenAI` `LangChain` `Automation`
 
-🎯 **Impact:** 20+ production-ready automation workflows for businesses
+🎯 **Impact:** AI-powered email outreach system for enhanced business communications
 
 </td>
 </tr>
@@ -309,6 +309,9 @@ timeline
   <a href="https://github.com/AtharvaDomale">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="tel:+918767498963">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
 ### **💬 Let's discuss:**
@@ -326,6 +329,9 @@ timeline
 
 </td>
 <td align="center">
+
+**📱 Phone**  
+[+91-8767498963](tel:+918767498963)
 
 </td>
 <td align="center">
@@ -346,17 +352,11 @@ timeline
 
 <div align="center">
 
-### 🕹️ Break through my code contributions! 
+### **🐍 Watch my contributions get eaten!**
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="images/breakout-light.svg"
-  />
-  <img alt="Breakout Game" src="images/breakout-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AtharvaDomale/AtharvaDomale/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AtharvaDomale/AtharvaDomale/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AtharvaDomale/AtharvaDomale/output/github-contribution-grid-snake.svg">
 </picture>
 
 ### **🎯 Profile Summary**
