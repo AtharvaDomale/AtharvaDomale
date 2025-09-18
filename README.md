@@ -76,7 +76,7 @@ class AtharvaProfile:
 <!-- Featured Projects Section -->
 ### 💻 Featured Projects
 <div align="center">
-  <a href="https://github.com/AtharvaDomale/Semantic-search-engine-for-Marathi-literature-using-Qdrant-and-Sentence-Transformers">
+  <a href="[https://github.com/AtharvaDomale/Semantic-search-engine-for-Marathi-literature-using-Qdrant-and-Sentence-Transformers.](https://github.com/AtharvaDomale/AI-Email-GTM-Outreach-Agent">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaDomale&repo=Semantic-search-engine-for-Marathi-literature-using-Qdrant-and-Sentence-Transformers&theme=tokyonight" />
   </a>
   <a href="[https://github.com/AtharvaDomale/awesome-n8n-templates](https://github.com/AtharvaDomale/AI-Email-GTM-Outreach-Agent">
