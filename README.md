@@ -1,145 +1,123 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=2500&color=00FF00&background=F513FF00&width=435&lines=Hi+There!+✌️)](https://git.io/typing-svg)
+<div align="center">
+  
+  <!-- Animated Header - Using SVG for better visibility -->
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B+I'm+Atharva;AI+Engineer" alt="Typing SVG" />
+  </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=9000&pause=2000&color=FFD700&background=F513FF00&width=435&lines=I'm+Atharva+Domale+✨)](https://git.io/typing-svg)
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=atharvadomale&label=Profile%20views&color=6A5ACD&style=flat" alt="profile views" />
 
-<h3 align="center">A passionate AI Engineer from India</h3>
+  <!-- Professional Title -->
+  <h3>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+    AI Engineer | LLM & GenAI Specialist | Microsoft Azure Certified
+  </h3>
 
-<br/>
+</div>
 
-![Header](images/asd.png)
-
-<img align="right" width="150" height="150" src="images/emo.gif" alt="gif">
-</p>
-
-## 🔭 Currently Working On
-
-- My current focus lies in developing a Sign Language Recognition system aimed at enhancing accessibility for individuals with hearing impairments.
-- Leveraging advanced machine learning techniques and computer vision algorithms, I'm striving to create a seamless and accurate method for translating sign language gestures into text or spoken language.
-- Through this project, I hope to contribute to breaking down communication barriers and promoting inclusivity in technology.
-
-## 📫 How to Reach Me
-
-- For inquiries, collaborations, or discussions related to AI and machine learning, feel free to reach out to me via [Email](mailto:atharvadomale@gmail.com).
-- You can also connect with me on [LinkedIn](https://www.linkedin.com/in/atharvadomale/) to stay updated on my latest projects and professional endeavors.
-
-## ⚡ Fun Fact
-
-- I find joy in the intricate dance between creativity and problem-solving inherent in AI development.
-- From unraveling complex algorithms to exploring the frontiers of artificial intelligence, each day presents a new opportunity to innovate and push the boundaries of what's possible.
-- While I'm passionate about advancing AI capabilities, I'm equally committed to ensuring that ethical considerations and societal impact remain at the forefront of our efforts.
-
-
-## 🌐 Connect with me
-
-<p align="left">
-  <a href="https://linkedin.com/in/atharvadomale" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn" />
+<!-- Badges Section -->
+<p align="center">
+  <a href="mailto:atharvadomale@gmail.com">
+    <img src="https://img.shields.io/badge/Email-atharvadomale%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://stackoverflow.com/users/20541614" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Stack%20Overflow-Profile-orange?style=flat&logo=stackoverflow&logoColor=white&color=F58025" alt="Stack Overflow" />
+  <a href="https://www.linkedin.com/in/atharvadomale">
+    <img src="https://img.shields.io/badge/LinkedIn-atharvadomale-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://kaggle.com/atharvadomale" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle&logoColor=white&color=20BEFF" alt="Kaggle" />
+  <a href="tel:+918767498963">
+    <img src="https://img.shields.io/badge/Contact-%2B91--8767498963-green?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
-## 🛠️ Languages and Tools
+<!-- Animated Separator -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-Language-yellow?style=flat&logo=python&logoColor=white&color=3776AB" alt="Python" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/C-Language-green?style=flat&logo=c&logoColor=white&color=A8B9CC" alt="C" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Java-Language-orange?style=flat&logo=java&logoColor=white&color=007396" alt="Java" />
-  </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/R-Language-blue?style=flat&logo=r&logoColor=white&color=276DC3" alt="R" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MySQL-Database-yellow?style=flat&logo=mysql&logoColor=white&color=4479A1" alt="MySQL" />
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-orange?style=flat&logo=powerbi&logoColor=white&color=F2C811" alt="Power BI" />
-  </a>
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Tableau-Data%20Visualization-blue?style=flat&logo=tableau&logoColor=white&color=E97627" alt="Tableau" />
-  </a>
-  <a href="https://colab.research.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Google%20Colab-Notebooks-yellow?style=flat&logo=googlecolab&logoColor=white&color=F9AB00" alt="Google Colab" />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Scikit%20Learn-Library-blue?style=flat&logo=scikitlearn&logoColor=white&color=F7931E" alt="Scikit Learn" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Pandas-Library-yellow?style=flat&logo=pandas&logoColor=white&color=150458" alt="Pandas" />
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Numpy-Library-blue?style=flat&logo=numpy&logoColor=white&color=013243" alt="NumPy" />
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PyTorch-Library-orange?style=flat&logo=pytorch&logoColor=white&color=EE4C2C" alt="PyTorch" />
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/TensorFlow-Library-blue?style=flat&logo=tensorflow&logoColor=white&color=FF6F00" alt="TensorFlow" />
-  </a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Keras-Library-red?style=flat&logo=keras&logoColor=white&color=D00000" alt="Keras" />
-  </a>
-  <a href="https://pjreddie.com/darknet/yolo/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/YOLO-Object%20Detection-yellow?style=flat&logo=yolov5&logoColor=white&color=990000" alt="YOLO" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Docker-Containerization-blue?style=flat&logo=docker&logoColor=white&color=2496ED" alt="Docker" />
-  </a>
-  <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Hugging%20Face-Library-blue?style=flat&logo=huggingface&logoColor=white&color=FF3E00" alt="Hugging Face" />
-  </a>
- <a href="https://mlflow.org/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/MLflow-MLOps-green?style=flat&logo=mlflow&logoColor=white&color=02569B" alt="MLflow" />
-</a>
+<!-- About Me Section -->
+### 🚀 About Me
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=atharvadomale&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+```python
+class AtharvaProfile:
+    def __init__(self):
+        self.name = "Atharva Domale"
+        self.role = "AI Engineer"
+        self.location = "Pune, Maharashtra, India"
+        self.skills = ["GenAI", "LLMs", "NLP", "ML/DL", "Full Stack AI"]
+        self.tools = ["Python", "Flask", "FastAPI", "Next.js", "LangChain"]
+        self.interests = ["AI Research", "Automation", "Innovation"]
+        
+    def get_current_work(self):
+        return "Building scalable AI solutions at ApTask"
+        
+    def get_learning(self):
+        return "Exploring advanced LLM architectures and RAG systems"
+```
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=atharvadomale&limit=5&theme=merko&combine_all_yearly_contributions=true)
-
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=atharvadomale&label=Profile%20views&color=0e75b6&style=flat" alt="atharvadomale" />
+<!-- Tech Stack Section with Icons -->
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
 </p>
 
-<div >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvadomale&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+<!-- Certifications Section -->
+### 🏆 Certifications
+<details>
+<summary>View Certifications</summary>
+<br>
+
+- 🌟 Microsoft Certified: Azure Fundamentals
+- 🌟 Microsoft Certified: Azure Data Fundamentals
+- 🌟 Foundation of Generative AI
+- 🌟 Fundamentals of Deep Learning
+
+</details>
+
+<!-- Featured Projects Section -->
+### 💻 Featured Projects
+<div align="center">
+  <a href="https://github.com/AtharvaDomale/Semantic-search-engine-for-Marathi-literature-using-Qdrant-and-Sentence-Transformers">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaDomale&repo=Semantic-search-engine-for-Marathi-literature-using-Qdrant-and-Sentence-Transformers&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/AtharvaDomale/awesome-n8n-templates">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AtharvaDomale&repo=awesome-n8n-templates&theme=tokyonight" />
+  </a>
 </div>
 
-<div >
-  <img src="https://github-readme-stats.vercel.app/api?username=atharvadomale&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-</div>
-<div >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atharvadomale&theme=dark" alt="GitHub Streak" />
+<!-- Professional Experience Timeline -->
+### 👨‍💻 Experience Timeline
+```mermaid
+timeline
+    title Professional Journey
+    2025 : ApTask : Python Developer
+    2025 : iSPEEDBiz : AI Research Intern
+         : Built AI-powered financial solutions
+    2024 : DigitalPaani : Data Annotation Intern
+         : 3000+ daily image annotations
+    2024 : Rowido LLP : AI Intern
+         : Offline Voice AI Assistant
+```
+
+<!-- GitHub Stats Section -->
+### 📊 GitHub Statistics
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AtharvaDomale&show_icons=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AtharvaDomale&theme=tokyonight" />
+</p>
+
+<!-- Dynamic Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AtharvaDomale&theme=react-dark" width="100%"/>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
 
-
-
-<div >
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atharvadomale&theme=github_dark" alt="Profile Summary Cards" />
-</div>
-<!--
-<div >
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-</div>
--->
+<!-- Dynamic Breakout Game Image -->
+<p align="center">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -151,7 +129,4 @@
   />
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
-
-
- </a> 
 </p>
