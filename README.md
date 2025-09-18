@@ -309,9 +309,6 @@ timeline
   <a href="https://github.com/AtharvaDomale">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="tel:+918767498963">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
 </p>
 
 ### **💬 Let's discuss:**
@@ -329,9 +326,6 @@ timeline
 
 </td>
 <td align="center">
-
-**📱 Phone**  
-[+91-8767498963](tel:+918767498963)
 
 </td>
 <td align="center">
@@ -354,9 +348,9 @@ timeline
 
 ### **🐍 Watch my contributions get eaten!**
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AtharvaDomale/AtharvaDomale/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AtharvaDomale/AtharvaDomale/blob/main/images/breakout-light.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AtharvaDomale/AtharvaDomale/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AtharvaDomale/AtharvaDomale/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/AtharvaDomale/AtharvaDomale/blob/main/images/breakout-dark.svg">
 </picture>
 
 ### **🎯 Profile Summary**
