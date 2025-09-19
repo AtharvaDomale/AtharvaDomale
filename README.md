@@ -328,7 +328,18 @@ timeline
 
 <div align="center">
 
-### **🐍 Watch my contributions get eaten!**
+### 🕹️ Break through my code contributions! 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
 
 ### **🎯 Profile Summary**
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AtharvaDomale&theme=tokyonight" width="100%" />
