@@ -3,11 +3,6 @@
 <!-- Dynamic Header with Gradient Background -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Atharva%20Domale&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<!-- Animated Typing Effect -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&multiline=true&width=600&height=150&lines=Hi+%F0%9F%91%8B+I'm+Atharva+Domale;AI+Engineer+%7C+GenAI+Specialist;Building+the+Future+with+AI;Microsoft+Azure+Certified" alt="Typing Animation" />
-</h1>
-
 <!-- Profile Metrics -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AtharvaDomale&label=Profile%20Views&color=6A5ACD&style=plastic&abbreviated=true" alt="Profile Views" />
@@ -45,7 +40,6 @@ class AtharvaProfile:
         self.role = "AI Engineer & GenAI Specialist"
         self.location = "🏙️ Pune, Maharashtra, India"
         self.company = "ApTask"
-        self.experience = "2+ Years"
         self.passion = "Building Scalable AI Solutions"
         
     def current_focus(self):
@@ -113,27 +107,17 @@ class AtharvaProfile:
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-### **🎨 Frontend Technologies**
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+
 
 ### **☁️ Cloud & DevOps**
 <p>
   <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
@@ -199,7 +183,6 @@ timeline
 <img src="https://img.shields.io/badge/Microsoft_Azure-Fundamentals-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 <img src="https://img.shields.io/badge/Azure_Data-Fundamentals-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 <img src="https://img.shields.io/badge/Generative_AI-Foundation-purple?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Deep_Learning-Fundamentals-orange?style=for-the-badge&logo=tensorflow&logoColor=white" />
 
 </td>
 <td width="50%" align="center">
@@ -309,9 +292,7 @@ timeline
   <a href="https://github.com/AtharvaDomale">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="tel:+918767498963">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+
 </p>
 
 ### **💬 Let's discuss:**
@@ -330,11 +311,6 @@ timeline
 </td>
 <td align="center">
 
-**📱 Phone**  
-[+91-8767498963](tel:+918767498963)
-
-</td>
-<td align="center">
 
 **💼 LinkedIn**  
 [/in/atharvadomale](https://linkedin.com/in/atharvadomale)
