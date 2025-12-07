@@ -556,7 +556,6 @@ timeline
 </tr>
 </table>
 
-**📧 Want me to write about something?** [Drop me an email!](mailto:atharvadomale@gmail.com)
 
 </div>
 
@@ -570,9 +569,6 @@ timeline
 ### **🌐 Find me across the web**
 
 <p>
-  <a href="mailto:atharvadomale@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://www.linkedin.com/in/atharvadomale">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
